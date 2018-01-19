@@ -1,0 +1,14 @@
+{"obj":
+[{"cronline":"0 15 * * 1-4","name":"one cup coffee","count":1,"delaymin":60,"enabled":false},
+{"cronline":"0 10 * * *","name":"practice 5 flashcards","count":4,"delaymin":1200,"enabled":true},
+{"cronline":"0 19 * * tue","name":"clean ears","count":1,"delaymin":1380,"enabled":true},
+{"cronline":"0 10 * * *","name":"do 5 flashcards","count":3,"delaymin":1200,"enabled":true},
+{"cronline":"0 7 * * *","name":"face cream","count":1,"delaymin":300,"enabled":true},
+{"cronline":"0 7 * * *","name":"german grammar book 2 pages","count":1,"delaymin":120,"enabled":true},
+{"cronline":"0 7 * * *","name":"do abs","count":1,"delaymin":120,"enabled":true},
+{"cronline":"0 10 * * tue","name":"water tree","count":1,"delaymin":60,"enabled":true},
+{"cronline":"0 23 * * *","name":"sleep","count":1,"delaymin":35,"enabled":true},
+{"cronline":"0 11 * * mon","name":"sync latex and texmacs","count":1,"delaymin":1380,"enabled":true},
+{"cronline":"0 8 */2 * *","name":"wash head","count":1,"delaymin":1380,"enabled":true},
+{"cronline":"0 7 * * *","name":"listen to jojo: to html","count":2,"delaymin":120,"enabled":true},
+{"cronline":"*/2 * * * *","name":"test","count":1,"delaymin":3,"enabled":false}]}
