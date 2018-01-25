@@ -1,8 +1,9 @@
 {"obj":
 [{"cronline":"0 15 * * 1-4","name":"one cup coffee","count":1,"delaymin":60,"enabled":false},
-{"cronline":"0 10 * * *","name":"practice 5 flashcards","count":4,"delaymin":1200,"enabled":true},
+{"cronline":"0 11 * * *","name":"practice 5 flashcards","count":4,"delaymin":1200,"enabled":true},
 {"cronline":"0 19 * * tue","name":"clean ears","count":1,"delaymin":1380,"enabled":true},
-{"cronline":"0 10 * * *","name":"do 5 flashcards","count":3,"delaymin":1200,"enabled":true},
+{"cronline":"0 11 * * *","name":"do 5 flashcards","count":3,"delaymin":1200,"enabled":true,
+"randomReminder":{"start":"11:00","count":8,"end":"19:00"}},
 {"cronline":"0 7 * * *","name":"face cream","count":1,"delaymin":300,"enabled":true},
 {"cronline":"0 7 * * *","name":"apple","count":1,"delaymin":300,"enabled":true},
 {"cronline":"0 7 * * *","name":"german grammar book 2 pages","count":1,"delaymin":120,"enabled":true},
