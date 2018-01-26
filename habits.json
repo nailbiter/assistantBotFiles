@@ -18,4 +18,4 @@
 {"cronline":"0 8 */2 * *","name":"wash head","count":1,"delaymin":1380,"enabled":true},
 {"cronline":"0 8 * * *","name":"read math 2 hours","count":1,"delaymin":960,"enabled":true},
 {"cronline":"0 7 * * *","name":"listen to jojo: to html","count":2,"delaymin":120,"enabled":true},
-{"cronline":"*/2 * * * *","name":"test","count":1,"delaymin":1,"enabled":true}]}
+{"cronline":"*/2 * * * *","name":"test","count":1,"delaymin":1,"enabled":false}]}
