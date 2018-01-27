@@ -10,7 +10,7 @@
 {"cronline":"0 19 * * tue","name":"clean ears","count":1,"delaymin":1380,"enabled":true},
 {"cronline":"0 7 * * *","name":"face cream","count":1,"delaymin":300,"enabled":true},
 {"cronline":"0 7 * * *","name":"apple","count":1,"delaymin":300,"enabled":true},
-{"cronline":"0 7 * * *","name":"german grammar book 2 pages","count":1,"delaymin":120,"enabled":true},
+{"cronline":"17 13 * * *","name":"german workbook 2 pages","count":1,"delaymin":120,"enabled":true},
 {"cronline":"0 7 * * *","name":"do abs","count":1,"delaymin":120,"enabled":true},
 {"cronline":"0 10 * * tue","name":"water tree","count":1,"delaymin":60,"enabled":true},
 {"cronline":"0 23 * * *","name":"sleep","count":1,"delaymin":55,"enabled":true},
