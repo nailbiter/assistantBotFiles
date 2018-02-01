@@ -1,6 +1,11 @@
 all: habits.json
+.INTERMEDIATE : merged.scm
 
 SCHEME=scheme --quiet < 
 
-habits.json : habits.scm
-	$(SCHEME) habits.scm |grep -v ';' > $@
+merged.scm : habits.scm macro.scm
+	cat macro.scm > merged.scm
+	cat habits.scm >> merged.scm
+habits.json : merged.scm
+	$(SCHEME) merged.scm |grep -v ';' > $@
+	rm -rf merged.scm
