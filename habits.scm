@@ -1,6 +1,6 @@
 ;main body
 (format #t "{\"obj\":[~%")
-(makehabits "11:00" "21:00" 6 "pluralization flashcards" 1080)
+(makehabits "11:00" "21:00" 10 "pluralization flashcards" 1080)
 (makehabits "11:00" "21:00" 6 "pronouns flashcards" 1080)
 (makehabits "11:00" "21:00" 6 "genders flashcards" 1080)
 (makehabits "11:00" "19:00" 3 "make 5 flashcards" 1080)
@@ -8,7 +8,7 @@
 (format #t "{\"cronline\":\"0 19 * * tue\",\"name\":\"clean ears\",\"count\":1,\"delaymin\":1380,\"enabled\":true},~%")
 (format #t "{\"cronline\":\"0 7 * * *\",\"name\":\"face cream\",\"count\":1,\"delaymin\":300,\"enabled\":true},~%")
 (format #t "{\"cronline\":\"0 7 * * *\",\"name\":\"apple\",\"count\":1,\"delaymin\":300,\"enabled\":true},~%")
-(format #t "{\"cronline\":\"17 13 * * *\",\"name\":\"german workbook 1 unit\",\"count\":1,\"delaymin\":1080,\"enabled\":true},~%")
+(format #t "{\"cronline\":\"17 13 * * *\",\"name\":\"german workbook 1 unit\",\"count\":1,\"delaymin\":1080,\"enabled\":false},~%")
 (format #t "{\"cronline\":\"0 7 * * *\",\"name\":\"do abs\",\"count\":1,\"delaymin\":120,\"enabled\":true},~%")
 (format #t "{\"cronline\":\"0 10 * * tue\",\"name\":\"water tree\",\"count\":1,\"delaymin\":60,\"enabled\":true},~%")
 (format #t "{\"cronline\":\"0 23 * * *\",\"name\":\"sleep\",\"count\":1,\"delaymin\":55,\"enabled\":true},~%")
