@@ -1,5 +1,6 @@
 ;main body
 (format #t "{\"obj\":[~%")
+(makehabits "11:00" "21:00" 6 "pluralization flashcards" 1080)
 (makehabits "11:00" "21:00" 6 "pronouns flashcards" 1080)
 (makehabits "11:00" "21:00" 6 "genders flashcards" 1080)
 (makehabits "11:00" "19:00" 3 "make 5 flashcards" 1080)
