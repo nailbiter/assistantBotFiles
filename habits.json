@@ -29,7 +29,7 @@
 {"name":"practice 5 flashcards","cronline":"32 16 * * *","delaymin":1080,"enabled":true},
 {"name":"practice 5 flashcards","cronline":"15 18 * * *","delaymin":1080,"enabled":true},
 {"cronline":"0 19 * * tue","name":"clean ears","count":1,"delaymin":1380,"enabled":true},
-{"cronline":"0 7 * * *","name":"face cream","count":1,"delaymin":300,"enabled":true},
+{"cronline":"0 7 * * *","name":"face wash cream and oil","count":1,"delaymin":300,"enabled":true},
 {"cronline":"0 7 * * *","name":"apple","count":1,"delaymin":300,"enabled":true},
 {"cronline":"17 13 * * *","name":"german workbook 1 unit","count":1,"delaymin":1080,"enabled":false},
 {"cronline":"0 7 * * *","name":"do abs","count":1,"delaymin":120,"enabled":true},
