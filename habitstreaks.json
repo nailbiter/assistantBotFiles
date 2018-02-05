@@ -1,12 +1,4 @@
 {
-  "face wash cream and oil": {
-    "streak": 1,
-    "accum": 1
-  },
-  "face cream": {
-    "streak": 7,
-    "accum": 15
-  },
   "pluralization flashcards": {
     "streak": 25,
     "accum": 25
@@ -14,18 +6,6 @@
   "listen to jojo": {
     "streak": 3,
     "accum": 8
-  },
-  "test": {
-    "streak": 2,
-    "accum": 1
-  },
-  "do 5 flashcards": {
-    "streak": 8,
-    "accum": 9
-  },
-  "read german grammar book": {
-    "streak": 1,
-    "accum": 1
   },
   "listen to jojo: to html": {
     "streak": 5,
@@ -35,23 +15,191 @@
     "streak": 24,
     "accum": 24
   },
+  "pronouns flashcards3": {
+    "streak": 0,
+    "accum": 0
+  },
+  "pronouns flashcards4": {
+    "streak": 0,
+    "accum": 0
+  },
+  "pronouns flashcards5": {
+    "streak": 0,
+    "accum": 0
+  },
+  "pronouns flashcards6": {
+    "streak": 0,
+    "accum": 0
+  },
   "do abs": {
     "streak": 4,
     "accum": 22
-  },
-  "german workbook 1 unit": {
-    "streak": 6,
-    "accum": 6
   },
   "read math 2 hours": {
     "streak": 0,
     "accum": -4
   },
+  "pronouns flashcards1": {
+    "streak": 0,
+    "accum": 0
+  },
+  "pronouns flashcards2": {
+    "streak": 0,
+    "accum": 0
+  },
+  "jojo exercise8": {
+    "streak": 0,
+    "accum": 0
+  },
+  "jojo exercise9": {
+    "streak": 0,
+    "accum": 0
+  },
+  "jojo exercise6": {
+    "streak": 0,
+    "accum": 0
+  },
+  "jojo exercise7": {
+    "streak": 0,
+    "accum": 0
+  },
+  "pluralization flashcards4": {
+    "streak": 0,
+    "accum": 0
+  },
+  "pluralization flashcards3": {
+    "streak": 0,
+    "accum": 0
+  },
+  "jojo exercise1": {
+    "streak": 0,
+    "accum": 0
+  },
+  "sync latex and texmacs": {
+    "streak": 3,
+    "accum": 3
+  },
+  "pluralization flashcards6": {
+    "streak": 0,
+    "accum": 0
+  },
+  "pluralization flashcards5": {
+    "streak": 0,
+    "accum": 0
+  },
+  "pluralization flashcards8": {
+    "streak": 0,
+    "accum": 0
+  },
+  "jojo exercise4": {
+    "streak": 0,
+    "accum": 0
+  },
+  "pluralization flashcards7": {
+    "streak": 0,
+    "accum": 0
+  },
+  "jojo exercise5": {
+    "streak": 0,
+    "accum": 0
+  },
+  "jojo exercise2": {
+    "streak": 0,
+    "accum": 0
+  },
+  "pluralization flashcards9": {
+    "streak": 0,
+    "accum": 0
+  },
+  "jojo exercise3": {
+    "streak": 0,
+    "accum": 0
+  },
+  "face wash cream and oil": {
+    "streak": 1,
+    "accum": 1
+  },
+  "face cream": {
+    "streak": 7,
+    "accum": 15
+  },
+  "test": {
+    "streak": 2,
+    "accum": 1
+  },
+  "do 5 flashcards": {
+    "streak": 8,
+    "accum": 9
+  },
+  "pluralization flashcards2": {
+    "streak": 0,
+    "accum": 0
+  },
+  "pluralization flashcards1": {
+    "streak": 0,
+    "accum": 0
+  },
+  "jojo exercise13": {
+    "streak": 0,
+    "accum": 0
+  },
+  "jojo exercise14": {
+    "streak": 0,
+    "accum": 0
+  },
+  "pluralization flashcards10": {
+    "streak": 0,
+    "accum": 0
+  },
+  "one cup coffee": 0,
+  "jojo exercise11": {
+    "streak": 0,
+    "accum": 0
+  },
+  "jojo exercise12": {
+    "streak": 0,
+    "accum": 0
+  },
+  "make 5 flashcards": {
+    "streak": 27,
+    "accum": 27
+  },
+  "jojo exercise10": {
+    "streak": 0,
+    "accum": 0
+  },
+  "wash head": {
+    "streak": 5,
+    "accum": 5
+  },
+  "make 5 flashcards1": {
+    "streak": 0,
+    "accum": 0
+  },
+  "make 5 flashcards3": {
+    "streak": 0,
+    "accum": 0
+  },
+  "practice 5 flashcards4": {
+    "streak": 0,
+    "accum": 0
+  },
+  "make 5 flashcards2": {
+    "streak": 0,
+    "accum": 0
+  },
+  "practice 5 flashcards3": {
+    "streak": 0,
+    "accum": 0
+  },
+  "german workbook 1 unit": {
+    "streak": 6,
+    "accum": 6
+  },
   "genders flashcards": {
     "streak": 25,
     "accum": 25
   },
-  "one cup coffee": 0,
   "sleep": {
     "streak": 0,
     "accum": -21
@@ -68,28 +216,52 @@
     "streak": 44,
     "accum": 45
   },
-  "water tree": {
-    "streak": 0,
-    "accum": -1
-  },
-  "make 5 flashcards": {
-    "streak": 27,
-    "accum": 27
-  },
   "german workbook 2 pages": {
     "streak": 0,
     "accum": 0
   },
-  "wash head": {
-    "streak": 5,
-    "accum": 5
+  "practice 5 flashcards2": {
+    "streak": 0,
+    "accum": 0
   },
-  "sync latex and texmacs": {
-    "streak": 3,
-    "accum": 3
+  "practice 5 flashcards1": {
+    "streak": 0,
+    "accum": 0
   },
   "german grammar book 2 pages": {
     "streak": 0,
     "accum": 12
+  },
+  "read german grammar book": {
+    "streak": 1,
+    "accum": 1
+  },
+  "water tree": {
+    "streak": 0,
+    "accum": -1
+  },
+  "genders flashcards6": {
+    "streak": 0,
+    "accum": 0
+  },
+  "genders flashcards5": {
+    "streak": 0,
+    "accum": 0
+  },
+  "genders flashcards2": {
+    "streak": 0,
+    "accum": 0
+  },
+  "genders flashcards1": {
+    "streak": 0,
+    "accum": 0
+  },
+  "genders flashcards4": {
+    "streak": 0,
+    "accum": 0
+  },
+  "genders flashcards3": {
+    "streak": 0,
+    "accum": 0
   }
 }
