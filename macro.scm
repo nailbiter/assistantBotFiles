@@ -27,13 +27,14 @@
        (lambda(minutes)(format #f "~2,'0d:~2,'0d"(quotient minutes 60)(remainder minutes 60)))))
     (map (lambda(t)(list(quotient t 60)(remainder t 60))) timelist)
     ))
-(define(makehabits start end count name len) 
+(define(makehabits start end count name len . opt)
   (map
-  (lambda(l)
+  (lambda(l idx)
     (format #t
-      "{\"name\":\"~a\",\"cronline\":\"~a ~a * * *\",\"delaymin\":~a,\"enabled\":true, \"category\" : \"german\"},~%"
-      name(second l)(first l)len))
-  (randtimes start end count)))
+      "{\"name\":\"~a~a\",\"cronline\":\"~a ~a * * *\",\"delaymin\":~a,\"enabled\":~a, \"category\" : \"german\"},~%"
+      name (+ idx 1)(second l)(first l)len(if(null? opt) "true" "false")))
+  (randtimes start end count)
+  (seq 0 count)))
 (define(makehabit cronline name delaymin)
   (format 
     #t 
