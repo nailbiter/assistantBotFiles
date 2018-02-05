@@ -31,7 +31,7 @@
   (map
   (lambda(l)
     (format #t
-      "{\"name\":\"~a\",\"cronline\":\"~a ~a * * *\",\"delaymin\":~a,\"enabled\":true},~%"
+      "{\"name\":\"~a\",\"cronline\":\"~a ~a * * *\",\"delaymin\":~a,\"enabled\":true, \"category\" : \"german\"},~%"
       name(second l)(first l)len))
   (randtimes start end count)))
 (define(makehabit cronline name delaymin)
