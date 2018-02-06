@@ -38,7 +38,7 @@
 (define(makehabit cronline name delaymin)
   (format 
     #t 
-    "{\"cronline\":\"~a\",\"name\":\"~a\",\"count\":1,\"delaymin\":~d,\"enabled\":true},~%"
+    "{\"cronline\":\"~a\",\"name\":\"~a\",\"count\":1,\"delaymin\":~a,\"enabled\":true},~%"
     cronline
     name
     delaymin))
