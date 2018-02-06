@@ -344,6 +344,11 @@
       "date": "Tue Feb 06 09:18:13 CST 2018",
       "amount": 726,
       "category": "food"
+    },
+    {
+      "date": "Tue Feb 06 13:19:47 CST 2018",
+      "amount": 609,
+      "category": "transport"
     }
   ],
   "categories": {
