@@ -17,7 +17,7 @@
 (makehabit "0 23 * * *" "sleep" 55)
 (makehabit "0 11 * * mon" "sync latex and texmacs" 1380)
 (makehabit "0 8 */2 * mon" "wash head" 1380)
-(makehabit "0 8 * * *" "read math 2 hours" 960)
+(makehabit "0 8 * * *" "read math 2 hours" 960 #f)
 
 (format #t "{\"cronline\":\"0 7 * * *\",\"name\":\"listen to jojo: to html\",\"count\":2,\"delaymin\":120,\"enabled\":true,\"category\":\"german\"},~%")
 (format #t"{\"cronline\":\"*/2 * * * *\",\"name\":\"test\",\"count\":1,\"delaymin\":1,\"enabled\":false}]}")

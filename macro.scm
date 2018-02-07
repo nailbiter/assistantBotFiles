@@ -35,11 +35,11 @@
       name (+ idx 1)(second l)(first l)len(if(null? opt) "true" "false")))
   (randtimes start end count)
   (seq 0 count)))
-(define(makehabit cronline name delaymin)
+(define(makehabit cronline name delaymin . opt)
   (format 
     #t 
-    "{\"cronline\":\"~a\",\"name\":\"~a\",\"count\":1,\"delaymin\":~a,\"enabled\":true},~%"
+    "{\"cronline\":\"~a\",\"name\":\"~a\",\"count\":1,\"delaymin\":~a,\"enabled\":~a},~%"
     cronline
     name
-    delaymin))
-
+    delaymin
+    (if(null? opt) "true" "false")))
