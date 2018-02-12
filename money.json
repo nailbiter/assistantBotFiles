@@ -429,6 +429,11 @@
       "date": "Sun Feb 11 12:03:46 CST 2018",
       "amount": 158,
       "category": "fun"
+    },
+    {
+      "date": "Mon Feb 12 15:10:32 CST 2018",
+      "amount": 608,
+      "category": "food"
     }
   ],
   "categories": {
