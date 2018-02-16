@@ -115,12 +115,23 @@
   },
   {
     "description": "self-contained",
-    "history": [],
-    "done": false
+    "history": [
+      1518501320695,
+      "done"
+    ],
+    "done": true
   },
   {
     "description": "diff spectrum and check",
     "history": [],
     "done": false
+  },
+  {
+    "description": "footnote fix",
+    "history": [
+      1518504973490,
+      "done"
+    ],
+    "done": true
   }
 ]}
