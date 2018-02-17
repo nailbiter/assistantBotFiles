@@ -494,6 +494,11 @@
       "date": "Fri Feb 16 07:49:36 CST 2018",
       "amount": 774,
       "category": "food"
+    },
+    {
+      "date": "Sat Feb 17 20:04:57 CST 2018",
+      "amount": 505,
+      "category": "food"
     }
   ],
   "categories": {
