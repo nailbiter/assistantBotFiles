@@ -544,6 +544,26 @@
       "date": "Tue Feb 20 21:26:50 CST 2018",
       "amount": 996,
       "category": "fun"
+    },
+    {
+      "date": "Wed Feb 21 08:14:51 CST 2018",
+      "amount": 195,
+      "category": "fun"
+    },
+    {
+      "date": "Wed Feb 21 11:23:11 CST 2018",
+      "amount": 573,
+      "category": "food"
+    },
+    {
+      "date": "Wed Feb 21 18:10:12 CST 2018",
+      "amount": 400,
+      "category": "food"
+    },
+    {
+      "date": "Wed Feb 21 21:13:52 CST 2018",
+      "amount": 800,
+      "category": "food"
     }
   ],
   "categories": {
