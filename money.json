@@ -889,6 +889,31 @@
       "date": "Sat Mar 10 16:27:01 CST 2018",
       "amount": 1680,
       "category": "food"
+    },
+    {
+      "date": "Sun Mar 11 12:16:38 CST 2018",
+      "amount": 530,
+      "category": "food"
+    },
+    {
+      "date": "Sun Mar 11 13:31:46 CST 2018",
+      "amount": 690,
+      "category": "food"
+    },
+    {
+      "date": "Sun Mar 11 15:52:50 CST 2018",
+      "amount": 1262,
+      "category": "fun"
+    },
+    {
+      "date": "Sun Mar 11 21:13:26 CST 2018",
+      "amount": 6078,
+      "category": "fun"
+    },
+    {
+      "date": "Mon Mar 12 13:16:51 CST 2018",
+      "amount": 200,
+      "category": "fun"
     }
   ],
   "categories": {
