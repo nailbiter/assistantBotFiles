@@ -1,0 +1,2 @@
+#SCHEME=scheme --quiet < 
+SCHEME=guile -s
