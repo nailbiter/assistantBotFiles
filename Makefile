@@ -1,7 +1,7 @@
 .PHONY: all
 .INTERMEDIATE : merged.scm
 
-include Makefile.local
+SCHEME=scheme --quiet < 
 
 all: habits.json
 	runBot.sh
