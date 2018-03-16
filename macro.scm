@@ -52,7 +52,7 @@
 (define(makehabits start end count name len info . opt)
   (map
     (lambda(cronline name)(makehabit:inner cronline name len opt))
-    (map(lambda(i)(format #f "\"~a ~a * * *\""(second i)(first i)))(randtimes start end count))
+    (map(lambda(i)(format #f "~a ~a * * *"(second i)(first i)))(randtimes start end count))
     (map(lambda(i)(format #f "~a:~a" name i))(seq 0 count))))
 (define(makehabit cronline name delaymin . opt)(makehabit:inner cronline name delaymin opt))
 (define(makehabit:inner cronline name delaymin opt)
