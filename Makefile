@@ -1,7 +1,8 @@
 .PHONY: all
 .INTERMEDIATE : merged.scm
 
-SCHEME=scheme --quiet < 
+SCHEMEFLAGS=--quiet
+SCHEME=scheme $(SCHEMEFLAGS) < 
 
 all: habits.json
 	runBot.sh
