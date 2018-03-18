@@ -1029,6 +1029,11 @@
       "date": "Sat Mar 17 23:11:21 CST 2018",
       "amount": 754,
       "category": "fun"
+    },
+    {
+      "date": "Sun Mar 18 07:06:07 CST 2018",
+      "amount": 195,
+      "category": "fun"
     }
   ],
   "categories": {
