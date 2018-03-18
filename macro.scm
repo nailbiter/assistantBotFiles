@@ -8,8 +8,8 @@
 (define(getkey table key default)
   (cond
     ((null? table)default)
-    ((eq? key(caar table))(second(car table)))
-    (else(getkey(cdr table)key))))
+    ((eq? key(first(car table)))(second(car table)))
+    (else(getkey(cdr table)key default))))
 ;;;generate random times
 ;;;@arg start -- start in format, e.g. "10:00"
 ;;;@arg end -- end in format, e.g. "10:00"
@@ -34,6 +34,7 @@
        (lambda(minutes)(format #f "~2,'0d:~2,'0d"(quotient minutes 60)(remainder minutes 60)))))
     (map (lambda(t)(list(quotient t 60)(remainder t 60))) timelist)
     ))
+
 ;(define(makehabits start end count name len info . opt)
 ;  (map
 ;    (lambda(l idx)
@@ -49,17 +50,21 @@
 ;        (if(not(string=? info ""))(format #f ",~%\t\"info\":\"~a\"" info)"")))
 ;    (randtimes start end count)
 ;    (seq 0 count)))
-(define(makehabits start end count name len info . opt)
+(define(makehabits start end count name len . opt)
   (map
     (lambda(cronline name)(makehabit:inner cronline name len opt))
     (map(lambda(i)(format #f "~a ~a * * *"(second i)(first i)))(randtimes start end count))
-    (map(lambda(i)(format #f "~a:~a" name i))(seq 0 count))))
+    (map(lambda(i)(format #f "~a:~a" name (+ i 1)))(seq 0 count))))
 (define(makehabit cronline name delaymin . opt)(makehabit:inner cronline name delaymin opt))
 (define(makehabit:inner cronline name delaymin opt)
   (format 
     #t 
-    "{\"cronline\":\"~a\",\"name\":\"~a\",\"count\":1,\"delaymin\":~a,\"enabled\":~a},~%"
+    "{\"cronline\":\"~a\",\"name\":\"~a\",\"count\":1,\"delaymin\":~a ~a ~a ~a},~%"
     cronline
     name
     delaymin
-    (if(null? opt) "true" "false")))
+    (format #f ", \"info\":\"~a\""(getkey opt 'info ""))
+    (if(getkey opt 'enabled #t) "" ",\"enabled\":false")
+    ((lambda(cat)(if(string=? cat "")""(format #f ",\"category\":\"~a\""cat)))(getkey opt 'category ""))
+    ))
+(define(flushhabits)'TODO)
