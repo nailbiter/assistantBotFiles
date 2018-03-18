@@ -13,6 +13,7 @@
 (flushhabits)
 
 (makehabit "0 19 * * tue" "clean ears" 1380)
+(makehabit "0 13 * * *" "elsa" 1380)
 (makehabit "0 7 * * *" "face cream" 300)
 (makehabit "0 7 * * *" "apple" 300)
 (makehabit "0 7 * * *" "do abs" 120)
