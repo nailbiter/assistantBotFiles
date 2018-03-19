@@ -2,6 +2,9 @@
 (load-option 'format)
 ;(use-modules (srfi srfi-1))
 
+;;global vars
+(define habitshash(make-equal-hash-table))
+
 (define(seq a b)(if(>= a b)'()(cons a(seq(+ a 1)b))))
 ;;;get the value from the table of the format ((key1 val1)(key2 val2)...)
 ;;;@arg default -- default value to be returted if nothing found
@@ -35,21 +38,6 @@
     (map (lambda(t)(list(quotient t 60)(remainder t 60))) timelist)
     ))
 
-;(define(makehabits start end count name len info . opt)
-;  (map
-;    (lambda(l idx)
-;      (format 
-;        #t
-;        "{\"name\":\"~a~a\",\"cronline\":\"~a ~a * * *\",\"delaymin\":~a,\"enabled\":~a, \"category\" : \"german\"~a},~%"
-;        name 
-;        (+ idx 1)
-;        (second l)
-;        (first l)
-;        len
-;        (if(null? opt) "true" "false")
-;        (if(not(string=? info ""))(format #f ",~%\t\"info\":\"~a\"" info)"")))
-;    (randtimes start end count)
-;    (seq 0 count)))
 (define(makehabits start end count name len . opt)
   (map
     (lambda(cronline name)(makehabit:inner cronline name len opt))
