@@ -3,15 +3,23 @@
     "streak": 25,
     "accum": 25
   },
+  "make 5 flashcards:3": {
+    "streak": 2,
+    "accum": 2
+  },
   "make 5 flashcards:2": {
-    "streak": 0,
-    "accum": 0
+    "streak": 1,
+    "accum": 1
   },
   "pronouns flashcards": {
     "streak": 24,
     "accum": 24
   },
   "pronouns flashcards3": {
+    "streak": 2,
+    "accum": 2
+  },
+  "german workbook 1 unit and FCsentences:1": {
     "streak": 2,
     "accum": 2
   },
@@ -28,8 +36,8 @@
     "accum": 2
   },
   "make 5 flashcards:1": {
-    "streak": 0,
-    "accum": 0
+    "streak": 1,
+    "accum": 1
   },
   "make 5 flashcards:0": {
     "streak": 1,
@@ -84,8 +92,8 @@
     "accum": 9
   },
   "wash head": {
-    "streak": 7,
-    "accum": 7
+    "streak": 8,
+    "accum": 8
   },
   "make 5 flashcards1": {
     "streak": 2,
@@ -113,7 +121,7 @@
   },
   "sleep": {
     "streak": 0,
-    "accum": -54
+    "accum": -55
   },
   "clean ears": {
     "streak": 4,
@@ -135,17 +143,21 @@
     "streak": 2,
     "accum": 11
   },
+  "practice 5 flashcards:4": {
+    "streak": 2,
+    "accum": 2
+  },
   "practice 5 flashcards:3": {
-    "streak": 0,
-    "accum": 0
+    "streak": 2,
+    "accum": 2
   },
   "practice 5 flashcards:2": {
-    "streak": 0,
-    "accum": 0
-  },
-  "practice 5 flashcards:1": {
     "streak": 1,
     "accum": 1
+  },
+  "practice 5 flashcards:1": {
+    "streak": 2,
+    "accum": 2
   },
   "practice 5 flashcards:0": {
     "streak": 1,
@@ -166,6 +178,10 @@
   "genders flashcards5": {
     "streak": 5,
     "accum": 4
+  },
+  "pluralization flashcards:10": {
+    "streak": 2,
+    "accum": 2
   },
   "genders flashcards2": {
     "streak": 9,
@@ -192,64 +208,68 @@
     "accum": 8
   },
   "listen to jojo: to html": {
-    "streak": 0,
-    "accum": 27
+    "streak": 1,
+    "accum": 28
+  },
+  "genders flashcards:4": {
+    "streak": 2,
+    "accum": 2
   },
   "do abs": {
-    "streak": 0,
-    "accum": 37
+    "streak": 1,
+    "accum": 38
   },
   "pluralization flashcards:9": {
-    "streak": 0,
-    "accum": 0
+    "streak": 2,
+    "accum": 2
   },
   "genders flashcards:3": {
-    "streak": 0,
-    "accum": 0
+    "streak": 1,
+    "accum": 1
   },
   "read math 2 hours": {
     "streak": 0,
     "accum": -4
   },
   "pluralization flashcards:8": {
-    "streak": 0,
-    "accum": 0
+    "streak": 2,
+    "accum": 2
   },
   "genders flashcards:2": {
-    "streak": 2,
-    "accum": 2
+    "streak": 3,
+    "accum": 3
   },
   "pluralization flashcards:7": {
-    "streak": 0,
-    "accum": 0
+    "streak": 2,
+    "accum": 2
   },
   "genders flashcards:1": {
-    "streak": 2,
-    "accum": 2
+    "streak": 3,
+    "accum": 3
   },
   "pluralization flashcards:6": {
-    "streak": 0,
-    "accum": 0
+    "streak": 1,
+    "accum": 1
   },
   "pluralization flashcards:5": {
-    "streak": 1,
-    "accum": 1
+    "streak": 2,
+    "accum": 2
   },
   "pluralization flashcards:4": {
-    "streak": 1,
-    "accum": 1
+    "streak": 2,
+    "accum": 2
   },
   "pluralization flashcards:3": {
-    "streak": 2,
-    "accum": 2
+    "streak": 3,
+    "accum": 3
   },
   "pluralization flashcards:2": {
-    "streak": 2,
-    "accum": 2
+    "streak": 3,
+    "accum": 3
   },
   "pluralization flashcards:1": {
-    "streak": 2,
-    "accum": 2
+    "streak": 3,
+    "accum": 3
   },
   "pluralization flashcards:0": {
     "streak": 2,
@@ -264,8 +284,8 @@
     "accum": 10
   },
   "sync latex and texmacs": {
-    "streak": 7,
-    "accum": 7
+    "streak": 8,
+    "accum": 8
   },
   "pluralization flashcards6": {
     "streak": 10,
@@ -292,8 +312,8 @@
     "accum": 1
   },
   "face cream": {
-    "streak": 14,
-    "accum": 40
+    "streak": 15,
+    "accum": 41
   },
   "test": {
     "streak": 2,
@@ -361,8 +381,8 @@
     "accum": 12
   },
   "masha 5 cards:1": {
-    "streak": 1,
-    "accum": 1
+    "streak": 2,
+    "accum": 2
   },
   "masha 5 cards:0": {
     "streak": 1,
@@ -372,49 +392,57 @@
     "streak": 2,
     "accum": 2
   },
+  "masha 5 cards:4": {
+    "streak": 2,
+    "accum": 2
+  },
   "genders flashcards": {
     "streak": 25,
     "accum": 25
   },
   "masha 5 cards:3": {
-    "streak": 0,
-    "accum": 0
-  },
-  "masha 5 cards:2": {
     "streak": 1,
     "accum": 1
   },
+  "masha 5 cards:2": {
+    "streak": 2,
+    "accum": 2
+  },
   "apple": {
-    "streak": 14,
-    "accum": 32
+    "streak": 15,
+    "accum": 33
   },
   "practice 5 flashcards": {
     "streak": 44,
     "accum": 45
   },
   "test paradigm:5": {
-    "streak": 0,
-    "accum": 0
-  },
-  "test paradigm:1": {
     "streak": 2,
     "accum": 2
+  },
+  "test paradigm:6": {
+    "streak": 2,
+    "accum": 2
+  },
+  "test paradigm:1": {
+    "streak": 3,
+    "accum": 3
   },
   "german grammar book 2 pages": {
     "streak": 0,
     "accum": 12
   },
   "test paradigm:2": {
+    "streak": 3,
+    "accum": 3
+  },
+  "test paradigm:3": {
     "streak": 2,
     "accum": 2
   },
-  "test paradigm:3": {
-    "streak": 1,
-    "accum": 1
-  },
   "test paradigm:4": {
-    "streak": 0,
-    "accum": 0
+    "streak": 2,
+    "accum": 2
   },
   "read german grammar book": {
     "streak": 1,
