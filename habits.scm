@@ -23,5 +23,5 @@
 (makehabit "0 8 */2 * mon" "wash head" 1380)
 (makehabit "0 8 * * *" "read math 2 hours" 960 '(enabled #f))
 
-(format #t "{\"cronline\":\"0 7 * * *\",\"name\":\"listen to jojo: to html\",\"count\":2,\"delaymin\":120,\"enabled\":true,\"category\":\"german\"},~%")
+;(format #t "{\"cronline\":\"0 7 * * *\",\"name\":\"listen to jojo: to html\",\"count\":2,\"delaymin\":120,\"enabled\":true,\"category\":\"german\"},~%")
 (format #t"{\"cronline\":\"*/2 * * * *\",\"name\":\"test\",\"count\":1,\"delaymin\":1,\"enabled\":false}]}")
