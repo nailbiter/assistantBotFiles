@@ -9,7 +9,11 @@
 (makehabits "10:00" "22:00" 1 "german workbook 1 unit and FCsentences" 1080 '(category "german"))
 ;(makehabits "10:00" "22:00" 10 "jojo exercise" 1080 "")
 (makehabits "10:00" "22:00" 6 "test paradigm" 1080 '(category "german"))
-(makehabits "10:00" "22:00" (* 2 (+ 4 5)) "jojo" 1080 '(category "german"))
+(makehabits "10:00" "22:00" 4 "jojo1 read" 1080 '(category "german"))
+(makehabits "10:00" "22:00" 5 "jojo1 exe" 1080 '(category "german"))
+(makehabits "10:00" "22:00" 4 "jojo2 read" 1080 '(category "german"))
+(makehabits "10:00" "22:00" 5 "jojo2 exe" 1080 '(category "german"))
+;(makehabits "10:00" "22:00" (* 2 (+ 4 5)) "jojo" 1080 '(category "german"))
 (flushhabits)
 
 (makehabit "0 19 * * tue" "clean ears" 1380)
