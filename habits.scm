@@ -6,7 +6,7 @@
 (makehabits "10:00" "22:00" 2 "genders flashcards" 1080 '(info "https://tiny.cards/decks/4f3bab7e-fee5-4bf1-87d3-f00bd4f44751") '(category "german"))
 (makehabits "10:00" "22:00" 4 "5 flashcards make" 1080 '(info "https://tiny.cards/decks/6fdRSrsB/wort-fur-wort-ix") '(category "german"))
 (makehabits "10:00" "22:00" 4 "5 flashcards prac" 1080 '(info "https://tiny.cards/decks/6fdRSrsB/wort-fur-wort-ix") '(category "german"))
-(makehabits "10:00" "22:00" 4 "masha 5 cards" 1080)
+(makehabits "10:00" "22:00" 2 "masha 5 cards" 1080)
 (makehabits "10:00" "22:00" 1 "german workbook 1 unit and FCsentences" 1080 '(category "german"))
 ;(makehabits "10:00" "22:00" 10 "jojo exercise" 1080 "")
 (makehabits "10:00" "22:00" 6 "test paradigm" 1080 '(category "german"))

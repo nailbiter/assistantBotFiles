@@ -30,7 +30,8 @@
      (step(quotient(- endmin startmin)count))
      (timelist
        (map
-         (lambda(s e)(+ s(random(- e s))))
+         ;(lambda(s e)(+ s(random(- e s)))) ;randomized
+         (lambda(s e)(+ s(/ (- e s) 2))) ; non-randomized
          (map(lambda(i)(+ startmin(* i step)))(seq 0 count))
          (map(lambda(i)(+ startmin(* i step)))(seq 1(inc count)))))
      (minutestotime
