@@ -1279,6 +1279,11 @@
       "date": "Mon Mar 26 16:30:06 CST 2018",
       "amount": 200,
       "category": "food"
+    },
+    {
+      "date": "Mon Mar 26 21:23:01 CST 2018",
+      "amount": 687,
+      "category": "food"
     }
   ],
   "categories": {
