@@ -2,7 +2,7 @@
 (format #t "~%{\"obj\":[~%")
 
 (makehabits "10:00" "22:00" 6 "pluralization flashcards" 1080 '(info "https://tiny.cards/decks/ed6eddd0-274f-4ac4-a96a-70f3f0e08726") '(category "german"))
-(makehabits "10:00" "22:00" 6 "germ sentences" 1080 '(info "https://tiny.cards/decks/5oPZSSoF/german-sentences") '(category "german"))
+(makehabits "10:00" "22:00" 4 "germ sentences" 1080 '(info "https://tiny.cards/decks/5oPZSSoF/german-sentences") '(category "german"))
 ;(makehabits "11:00" "21:00" 6 "pronouns flashcards" 1080 "https://tiny.cards/decks/35dd6998-5f2b-457c-a20c-84c5b5f09e0b" '(category "german"))
 ;(makehabits "10:00" "22:00" 2 "genders flashcards" 1080 '(info "https://tiny.cards/decks/4f3bab7e-fee5-4bf1-87d3-f00bd4f44751") '(category "german"))
 (makehabits "10:00" "22:00" 4 "5 flashcards make" 1080 '(info "https://tiny.cards/decks/6fdRSrsB/wort-fur-wort-ix") '(category "german"))
