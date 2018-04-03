@@ -15,6 +15,10 @@
     "streak": 6,
     "accum": 6
   },
+  "einsoch6 ubung:6": {
+    "streak": 0,
+    "accum": 0
+  },
   "pronouns flashcards": {
     "streak": 24,
     "accum": 24
@@ -24,12 +28,16 @@
     "accum": 2
   },
   "german workbook 1 unit and FCsentences:1": {
-    "streak": 16,
-    "accum": 16
+    "streak": 17,
+    "accum": 17
   },
   "jojo2 exe:4": {
     "streak": 1,
     "accum": 1
+  },
+  "einsoch6 ubung:4": {
+    "streak": 0,
+    "accum": 0
   },
   "pronouns flashcards4": {
     "streak": 2,
@@ -39,13 +47,25 @@
     "streak": 1,
     "accum": 1
   },
+  "einsoch6 ubung:5": {
+    "streak": 0,
+    "accum": 0
+  },
   "pronouns flashcards5": {
     "streak": 1,
     "accum": 1
   },
+  "einsoch6 ubung:2": {
+    "streak": 0,
+    "accum": 0
+  },
   "pronouns flashcards6": {
     "streak": 2,
     "accum": 2
+  },
+  "einsoch6 ubung:3": {
+    "streak": 0,
+    "accum": 0
   },
   "make 5 flashcards:1": {
     "streak": 1,
@@ -58,6 +78,10 @@
   "jojo2 exe:1": {
     "streak": 1,
     "accum": 1
+  },
+  "einsoch6 ubung:1": {
+    "streak": 0,
+    "accum": 0
   },
   "pronouns flashcards1": {
     "streak": 3,
@@ -172,8 +196,8 @@
     "accum": 7
   },
   "wash head": {
-    "streak": 9,
-    "accum": 9
+    "streak": 10,
+    "accum": 10
   },
   "5 flashcards make:1": {
     "streak": 7,
@@ -225,11 +249,15 @@
   },
   "sleep": {
     "streak": 0,
-    "accum": -64
+    "accum": -65
   },
   "clean ears": {
-    "streak": 6,
-    "accum": 6
+    "streak": 7,
+    "accum": 7
+  },
+  "einsoch6 makeprettydoc:1": {
+    "streak": 0,
+    "accum": 0
   },
   "german workbook 2 pages": {
     "streak": 0,
@@ -288,8 +316,8 @@
     "accum": 1
   },
   "water tree": {
-    "streak": 2,
-    "accum": 0
+    "streak": 3,
+    "accum": 1
   },
   "german workbook 1 unit and FCsentences:0": {
     "streak": 2,
@@ -344,8 +372,8 @@
     "accum": 8
   },
   "do abs": {
-    "streak": 0,
-    "accum": 44
+    "streak": 1,
+    "accum": 45
   },
   "pluralization flashcards:9": {
     "streak": 12,
@@ -504,8 +532,8 @@
     "accum": 1
   },
   "face cream": {
-    "streak": 4,
-    "accum": 50
+    "streak": 5,
+    "accum": 51
   },
   "test": {
     "streak": 2,
@@ -613,8 +641,8 @@
     "accum": 14
   },
   "apple": {
-    "streak": 4,
-    "accum": 42
+    "streak": 5,
+    "accum": 43
   },
   "practice 5 flashcards": {
     "streak": 44,
@@ -673,12 +701,12 @@
     "accum": 2
   },
   "germ sentences:1": {
-    "streak": 2,
-    "accum": 2
+    "streak": 3,
+    "accum": 3
   },
   "germ sentences:2": {
-    "streak": 2,
-    "accum": 2
+    "streak": 3,
+    "accum": 3
   },
   "5 flashcards prac:1": {
     "streak": 6,
@@ -691,5 +719,13 @@
   "5 flashcards prac:2": {
     "streak": 6,
     "accum": 6
+  },
+  "einsoch6 translate:1": {
+    "streak": 0,
+    "accum": 0
+  },
+  "einsoch6 translate:2": {
+    "streak": 0,
+    "accum": 0
   }
 }
