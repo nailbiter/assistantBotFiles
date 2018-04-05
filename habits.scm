@@ -1,19 +1,33 @@
 ;main body
 (format #t "~%{\"obj\":[~%")
 
-(makehabits "10:00" "22:00" 6 "pluralization flashcards" 1080 '(info "https://tiny.cards/decks/ed6eddd0-274f-4ac4-a96a-70f3f0e08726") '(category "german"))
-(makehabits "10:00" "22:00" 4 "germ sentences" 1080 '(info "https://tiny.cards/decks/5oPZSSoF/german-sentences") '(category "german"))
+(makehabits "10:00" "22:00" 6 "pluralization flashcards" 1080 
+	    '(info "https://tiny.cards/decks/ed6eddd0-274f-4ac4-a96a-70f3f0e08726") 
+	    '(category "german"))
+(makehabits "10:00" "22:00" 4 "germ sentences" 1080 
+	    '(info "https://tiny.cards/decks/5oPZSSoF/german-sentences") 
+	    '(category "german"))
 ;(makehabits "11:00" "21:00" 6 "pronouns flashcards" 1080 "https://tiny.cards/decks/35dd6998-5f2b-457c-a20c-84c5b5f09e0b" '(category "german"))
 ;(makehabits "10:00" "22:00" 2 "genders flashcards" 1080 '(info "https://tiny.cards/decks/4f3bab7e-fee5-4bf1-87d3-f00bd4f44751") '(category "german"))
-(makehabits "10:00" "22:00" 4 "5 flashcards make" 1080 '(info "https://tiny.cards/decks/6fdRSrsB/wort-fur-wort-ix") '(category "german"))
-(makehabits "10:00" "22:00" 4 "5 flashcards prac" 1080 '(info "https://tiny.cards/decks/6fdRSrsB/wort-fur-wort-ix") '(category "german"))
-(makehabits "10:00" "22:00" 2 "masha 5 cards" 1080)
+(makehabits "10:00" "22:00" 4 "5 flashcards make" 1080 
+	    '(info "https://tiny.cards/decks/6fdRSrsB/wort-fur-wort-ix") 
+	    '(category "german"))
+(makehabits "10:00" "22:00" 4 "5 flashcards prac" 1080 
+	    '(info "https://tiny.cards/decks/6fdRSrsB/wort-fur-wort-ix") 
+	    '(category "german"))
+;(makehabits "10:00" "22:00" 2 "masha 5 cards" 1080)
 (makehabits "10:00" "22:00" 1 "german workbook 1 unit and FCsentences" 1080 '(category "german"))
 ;(makehabits "10:00" "22:00" 10 "jojo exercise" 1080 "")
 (makehabits "10:00" "22:00" 6 "test paradigm" 1080 '(category "german"))
-(makehabits "10:00" "22:00" 1 "einsoch6 makeprettydoc" 1080 '(category "german") '(info "http://www.dw.com/de/deutsch-lernen/das-bandtagebuch-1-lass-uns-reden/s-32658"))
-(makehabits "10:00" "22:00" 2 "einsoch6 translate" 1080 '(category "german") '(info "http://www.dw.com/de/deutsch-lernen/das-bandtagebuch-1-lass-uns-reden/s-32658"))
-(makehabits "10:00" "22:00" 6 "einsoch6 ubung" 1080 '(category "german") '(info "http://www.dw.com/de/deutsch-lernen/das-bandtagebuch-1-lass-uns-reden/s-32658"))
+(makehabits "10:00" "22:00" 1 "einsoch6 makeprettydoc" 1080 
+	    '(category "german") 
+	    '(info "http://www.dw.com/de/deutsch-lernen/das-bandtagebuch-1-lass-uns-reden/s-32658"))
+(makehabits "10:00" "22:00" 2 "einsoch6 translate" 1080 
+	    '(category "german") 
+	    '(info "http://www.dw.com/de/deutsch-lernen/das-bandtagebuch-1-lass-uns-reden/s-32658"))
+(makehabits "10:00" "22:00" 6 "einsoch6 ubung" 1080 
+	    '(category "german") 
+	    '(info "http://www.dw.com/de/deutsch-lernen/das-bandtagebuch-1-lass-uns-reden/s-32658"))
 ;(makehabits "10:00" "22:00" 4 "jojo1 read" 1080 '(category "german"))
 ;(makehabits "10:00" "22:00" 5 "jojo1 exe" 1080 '(category "german"))
 ;(makehabits "10:00" "22:00" 4 "jojo2 read" 1080 '(category "german"))

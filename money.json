@@ -1494,6 +1494,21 @@
       "date": "Wed Apr 04 14:44:03 CST 2018",
       "amount": 100,
       "category": "food"
+    },
+    {
+      "date": "Thu Apr 05 08:40:31 CST 2018",
+      "amount": 647,
+      "category": "food"
+    },
+    {
+      "date": "Thu Apr 05 11:56:58 CST 2018",
+      "amount": 200,
+      "category": "food"
+    },
+    {
+      "date": "Thu Apr 05 20:17:55 CST 2018",
+      "amount": 1000,
+      "category": "food"
     }
   ],
   "categories": {
