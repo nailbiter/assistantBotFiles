@@ -1509,6 +1509,26 @@
       "date": "Thu Apr 05 20:17:55 CST 2018",
       "amount": 1000,
       "category": "food"
+    },
+    {
+      "date": "Fri Apr 06 08:27:52 CST 2018",
+      "amount": 100,
+      "category": "food"
+    },
+    {
+      "date": "Fri Apr 06 10:03:50 CST 2018",
+      "amount": 850,
+      "category": "food"
+    },
+    {
+      "date": "Fri Apr 06 11:22:05 CST 2018",
+      "amount": 150,
+      "category": "food"
+    },
+    {
+      "date": "Fri Apr 06 13:21:10 CST 2018",
+      "amount": 124,
+      "category": "food"
     }
   ],
   "categories": {
