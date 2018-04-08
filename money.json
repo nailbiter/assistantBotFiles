@@ -1529,6 +1529,91 @@
       "date": "Fri Apr 06 13:21:10 CST 2018",
       "amount": 124,
       "category": "food"
+    },
+    {
+      "date": "Fri Apr 06 17:24:17 CST 2018",
+      "amount": 615,
+      "category": "food"
+    },
+    {
+      "date": "Fri Apr 06 21:03:35 CST 2018",
+      "amount": 1481,
+      "category": "food"
+    },
+    {
+      "date": "Sat Apr 07 15:14:42 CST 2018",
+      "amount": 200,
+      "category": "food"
+    },
+    {
+      "date": "Sat Apr 07 15:23:25 CST 2018",
+      "amount": 120,
+      "category": "fun"
+    },
+    {
+      "date": "Sat Apr 07 16:43:50 CST 2018",
+      "amount": 1328,
+      "category": "fun"
+    },
+    {
+      "date": "Sat Apr 07 18:05:18 CST 2018",
+      "amount": 35,
+      "category": "food"
+    },
+    {
+      "date": "Sat Apr 07 18:05:38 CST 2018",
+      "amount": 350,
+      "category": "fun"
+    },
+    {
+      "date": "Sat Apr 07 22:05:18 CST 2018",
+      "amount": 6480,
+      "category": "food"
+    },
+    {
+      "date": "Sat Apr 07 22:15:28 CST 2018",
+      "amount": 200,
+      "category": "fun"
+    },
+    {
+      "date": "Sun Apr 08 11:42:27 CST 2018",
+      "amount": 100,
+      "category": "food"
+    },
+    {
+      "date": "Sun Apr 08 11:45:36 CST 2018",
+      "amount": 390,
+      "category": "fun"
+    },
+    {
+      "date": "Sun Apr 08 15:39:55 CST 2018",
+      "amount": 1000,
+      "category": "fun"
+    },
+    {
+      "date": "Sun Apr 08 15:40:14 CST 2018",
+      "amount": 756,
+      "category": "food"
+    },
+    {
+      "date": "Sun Apr 08 16:06:02 CST 2018",
+      "amount": 200,
+      "category": "fun"
+    },
+    {
+      "date": "Sun Apr 08 18:39:57 CST 2018",
+      "amount": 2889,
+      "category": "fun"
+    },
+    {
+      "date": "Sun Apr 08 19:49:38 CST 2018",
+      "amount": 693,
+      "category": "food"
+    },
+    {
+      "date": "Sun Apr 08 21:34:31 CST 2018",
+      "amount": 694,
+      "category": "fun"
     }
   ],
   "categories": {
