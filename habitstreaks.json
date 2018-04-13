@@ -165,7 +165,7 @@
   },
   "sleep": {
     "streak": 0,
-    "accum": -72
+    "accum": -73
   },
   "practice 5 flashcards2": {
     "streak": 2,
@@ -356,8 +356,8 @@
     "accum": 13
   },
   "face cream": {
-    "streak": 1,
-    "accum": 52
+    "streak": 0,
+    "accum": 51
   },
   "test": {
     "streak": 2,
@@ -425,8 +425,8 @@
     "accum": 15
   },
   "apple": {
-    "streak": 1,
-    "accum": 44
+    "streak": 0,
+    "accum": 43
   },
   "test paradigm:5": {
     "streak": 21,
@@ -674,7 +674,7 @@
   },
   "do abs": {
     "streak": 0,
-    "accum": 44
+    "accum": 43
   },
   "genders flashcards:3": {
     "streak": 7,

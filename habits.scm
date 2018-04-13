@@ -3,7 +3,7 @@
 
 (format #t "~%{\"obj\":[~%")
 
-(makehabits "08:00" "22:00" 4 "pullups 10" 1080 '(category "sport"))
+;(makehabits "08:00" "22:00" 4 "pullups 10" 1080 '(category "sport"))
 
 (makehabits "08:00" "10:00" 2 "read main 1 1page" 1080 '(category "reading"))
 (makehabits "08:00" "10:00" 2 "read main 2 1page" 1080 '(category "reading"))
@@ -23,13 +23,17 @@
 (makehabits "10:00" "22:00" 6 "einsoch6 ubung" 1080 '(category "german") '(info "http://www.dw.com/de/deutsch-lernen/das-bandtagebuch-1-lass-uns-reden/s-32658"))
 (flushhabits)
 
+(makehabit "0 7 * * *" "pullups 10:1" 1080 '(category "sport"))
+(makehabit "2 7 * * *" "pullups 10:2" 1080 '(category "sport"))
+(makehabit "4 7 * * *" "pullups 10:3" 1080 '(category "sport"))
+(makehabit "6 7 * * *" "pullups 10:4" 1080 '(category "sport"))
 (makehabit "0 19 * * tue" "clean ears" 1380)
 (makehabit "0 13 * * *" "elsa" 1380)
 (makehabit "0 7 * * *" "face cream" 300)
 (makehabit "0 7 * * *" "apple" 300)
 (makehabit "0 7 * * *" "do abs" 120)
 (makehabit "0 10 * * tue" "water tree" 60)
-(makehabit "0 18 * * *" "protein" 1380)
+;(makehabit "0 18 * * *" "protein" 1380)
 (makehabit "0 23 * * *" "sleep" 55)
 (makehabit "0 11 * * mon" "sync latex and texmacs" 1380)
 (makehabit "0 8 */2 * *" "wash head" 1380)
