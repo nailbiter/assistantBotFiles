@@ -6,7 +6,7 @@
 ;(makehabits "08:00" "22:00" 4 "pullups 10" 1080 '(category "sport"))
 
 (makehabits "08:00" "10:00" 2 "read main 1 1page" 1080 '(category "reading"))
-(makehabits "08:00" "10:00" 2 "read main 2 1page" 1080 '(category "reading"))
+(makehabits "08:00" "10:00" 1 "read main 2 1page" 1080 '(category "reading"))
 
 (makehabits "10:00" "22:00" 6 "pluralization flashcards" 1080 '(info "https://tiny.cards/decks/ed6eddd0-274f-4ac4-a96a-70f3f0e08726")'(category "german"))
 (makehabits "10:00" "22:00" 4 "germ sentences" 1080 '(info "https://tiny.cards/decks/5oPZSSoF/german-sentences")'(category "german"))
