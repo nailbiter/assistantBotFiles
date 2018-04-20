@@ -1744,6 +1744,61 @@
       "date": "Tue Apr 17 20:44:10 CST 2018",
       "amount": 2073,
       "category": "food"
+    },
+    {
+      "date": "Wed Apr 18 09:53:09 CST 2018",
+      "amount": 654,
+      "category": "food"
+    },
+    {
+      "date": "Wed Apr 18 14:07:45 CST 2018",
+      "amount": 430,
+      "category": "food"
+    },
+    {
+      "date": "Wed Apr 18 14:28:36 CST 2018",
+      "amount": 400,
+      "category": "food"
+    },
+    {
+      "date": "Wed Apr 18 20:59:35 CST 2018",
+      "amount": 1110,
+      "category": "food"
+    },
+    {
+      "date": "Wed Apr 18 21:20:16 CST 2018",
+      "amount": 200,
+      "category": "food"
+    },
+    {
+      "date": "Thu Apr 19 09:32:37 CST 2018",
+      "amount": 300,
+      "category": "food"
+    },
+    {
+      "date": "Thu Apr 19 12:11:13 CST 2018",
+      "amount": 703,
+      "category": "food"
+    },
+    {
+      "date": "Thu Apr 19 18:00:13 CST 2018",
+      "amount": 289,
+      "category": "food"
+    },
+    {
+      "date": "Thu Apr 19 18:00:51 CST 2018",
+      "amount": 430,
+      "category": "food"
+    },
+    {
+      "date": "Thu Apr 19 18:45:21 CST 2018",
+      "amount": 384,
+      "category": "food"
+    },
+    {
+      "date": "Fri Apr 20 20:13:03 CST 2018",
+      "amount": 500,
+      "category": "food"
     }
   ],
   "categories": {
