@@ -21,7 +21,13 @@
 [["er","en","en","em",
 "e","e","er","er",
 "es","es","en","em",
-"e","e","er","en"],["M","F","N","Pl"],["--","N","A","G","D"],"adj: No Article"]
+"e","e","er","en"],["M","F","N","Pl"],["--","N","A","G","D"],"adj: No Article"],
+[["ich","du","er","sie","es","wir","ihr","sie","Sie",
+"mich","dich","ihn","sie","es","uns","euch","sie","Sie",
+"mir","dir","ihm","ihr","ihm","uns","euch","ihnen","Ihnen"
+],
+["I","you","he","she","it","we","you (pl)","they","You"],
+["--","N","A","D"],"pronouns"]
 ]},
 "genders":{"start":"9:00","count":13,"end":"22:00","data":
 	[

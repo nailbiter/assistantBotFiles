@@ -1799,6 +1799,101 @@
       "date": "Fri Apr 20 20:13:03 CST 2018",
       "amount": 500,
       "category": "food"
+    },
+    {
+      "date": "Sat Apr 21 07:40:58 CST 2018",
+      "amount": 483,
+      "category": "food"
+    },
+    {
+      "date": "Sat Apr 21 11:00:44 CST 2018",
+      "amount": 200,
+      "category": "food"
+    },
+    {
+      "date": "Sat Apr 21 11:00:45 CST 2018",
+      "amount": 1800,
+      "category": "food"
+    },
+    {
+      "date": "Sat Apr 21 14:34:39 CST 2018",
+      "amount": 731,
+      "category": "food"
+    },
+    {
+      "date": "Sat Apr 21 14:34:39 CST 2018",
+      "amount": 507,
+      "category": "fun"
+    },
+    {
+      "date": "Sat Apr 21 16:50:52 CST 2018",
+      "amount": 483,
+      "category": "fun"
+    },
+    {
+      "date": "Sat Apr 21 17:34:20 CST 2018",
+      "amount": 227,
+      "category": "food"
+    },
+    {
+      "date": "Sat Apr 21 18:50:57 CST 2018",
+      "amount": 110,
+      "category": "food"
+    },
+    {
+      "date": "Sat Apr 21 20:33:22 CST 2018",
+      "amount": 200,
+      "category": "fun"
+    },
+    {
+      "date": "Sat Apr 21 20:45:32 CST 2018",
+      "amount": 600,
+      "category": "food"
+    },
+    {
+      "date": "Sat Apr 21 22:02:24 CST 2018",
+      "amount": 1846,
+      "category": "food"
+    },
+    {
+      "date": "Sun Apr 22 14:02:22 CST 2018",
+      "amount": 300,
+      "category": "food"
+    },
+    {
+      "date": "Sun Apr 22 14:02:38 CST 2018",
+      "amount": 3050,
+      "category": "fun"
+    },
+    {
+      "date": "Sun Apr 22 14:03:21 CST 2018",
+      "amount": 319,
+      "category": "fun"
+    },
+    {
+      "date": "Sun Apr 22 14:03:39 CST 2018",
+      "amount": 237,
+      "category": "fun"
+    },
+    {
+      "date": "Sun Apr 22 14:55:00 CST 2018",
+      "amount": 248,
+      "category": "food"
+    },
+    {
+      "date": "Sun Apr 22 15:58:59 CST 2018",
+      "amount": 250,
+      "category": "food"
+    },
+    {
+      "date": "Sun Apr 22 20:01:19 CST 2018",
+      "amount": 200,
+      "category": "food"
+    },
+    {
+      "date": "Sun Apr 22 20:40:37 CST 2018",
+      "amount": 100,
+      "category": "food"
     }
   ],
   "categories": {
