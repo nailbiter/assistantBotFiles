@@ -25,9 +25,7 @@
 [["ich","du","er","sie","es","wir","ihr","sie","Sie",
 "mich","dich","ihn","sie","es","uns","euch","sie","Sie",
 "mir","dir","ihm","ihr","ihm","uns","euch","ihnen","Ihnen"
-],
-["I","you","he","she","it","we","you (pl)","they","You"],
-["--","N","A","D"],"pronouns"]
+],["--","N","A","D"],["I","you","he","she","it","we","you (pl)","they","You"],"pronouns"]
 ]},
 "genders":{"start":"9:00","count":13,"end":"22:00","data":
 	[
