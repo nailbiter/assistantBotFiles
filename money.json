@@ -1894,6 +1894,71 @@
       "date": "Sun Apr 22 20:40:37 CST 2018",
       "amount": 100,
       "category": "food"
+    },
+    {
+      "date": "Sun Apr 22 22:20:23 CST 2018",
+      "amount": 1785,
+      "category": "food"
+    },
+    {
+      "date": "Mon Apr 23 13:58:54 CST 2018",
+      "amount": 100,
+      "category": "food"
+    },
+    {
+      "date": "Mon Apr 23 15:26:41 CST 2018",
+      "amount": 490,
+      "category": "food"
+    },
+    {
+      "date": "Mon Apr 23 15:26:47 CST 2018",
+      "amount": 200,
+      "category": "food"
+    },
+    {
+      "date": "Mon Apr 23 18:53:26 CST 2018",
+      "amount": 150,
+      "category": "food"
+    },
+    {
+      "date": "Mon Apr 23 20:48:16 CST 2018",
+      "amount": 628,
+      "category": "food"
+    },
+    {
+      "date": "Tue Apr 24 11:28:27 CST 2018",
+      "amount": 647,
+      "category": "food"
+    },
+    {
+      "date": "Tue Apr 24 15:16:57 CST 2018",
+      "amount": 3521,
+      "category": "food"
+    },
+    {
+      "date": "Tue Apr 24 22:30:31 CST 2018",
+      "amount": 1090,
+      "category": "food"
+    },
+    {
+      "date": "Wed Apr 25 13:54:59 CST 2018",
+      "amount": 1200,
+      "category": "food"
+    },
+    {
+      "date": "Wed Apr 25 17:01:16 CST 2018",
+      "amount": 418,
+      "category": "transport"
+    },
+    {
+      "date": "Wed Apr 25 19:28:17 CST 2018",
+      "amount": 100,
+      "category": "food"
+    },
+    {
+      "date": "Wed Apr 25 20:05:28 CST 2018",
+      "amount": 154,
+      "category": "food"
     }
   ],
   "categories": {
