@@ -1959,6 +1959,11 @@
       "date": "Wed Apr 25 20:05:28 CST 2018",
       "amount": 154,
       "category": "food"
+    },
+    {
+      "date": "Thu Apr 26 13:12:42 CST 2018",
+      "amount": 500,
+      "category": "food"
     }
   ],
   "categories": {
