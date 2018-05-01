@@ -2019,6 +2019,16 @@
       "date": "Mon Apr 30 21:27:37 CST 2018",
       "amount": 154,
       "category": "fun"
+    },
+    {
+      "date": "Tue May 01 11:27:40 CST 2018",
+      "amount": 195,
+      "category": "fun"
+    },
+    {
+      "date": "Tue May 01 20:02:26 CST 2018",
+      "amount": 678,
+      "category": "food"
     }
   ],
   "categories": {
