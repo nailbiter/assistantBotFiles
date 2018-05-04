@@ -2029,6 +2029,11 @@
       "date": "Tue May 01 20:02:26 CST 2018",
       "amount": 678,
       "category": "food"
+    },
+    {
+      "date": "Thu May 03 19:01:18 CST 2018",
+      "amount": 159,
+      "category": "food"
     }
   ],
   "categories": {
