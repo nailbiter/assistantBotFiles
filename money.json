@@ -2129,6 +2129,31 @@
       "date": "Sun May 06 20:49:51 CST 2018",
       "amount": 133,
       "category": "fun"
+    },
+    {
+      "date": "Mon May 07 08:42:54 CST 2018",
+      "amount": 550,
+      "category": "food"
+    },
+    {
+      "date": "Mon May 07 11:27:04 CST 2018",
+      "amount": 150,
+      "category": "food"
+    },
+    {
+      "date": "Mon May 07 11:36:50 CST 2018",
+      "amount": 200,
+      "category": "food"
+    },
+    {
+      "date": "Mon May 07 15:34:22 CST 2018",
+      "amount": 995,
+      "category": "food"
+    },
+    {
+      "date": "Mon May 07 21:55:13 CST 2018",
+      "amount": 607,
+      "category": "food"
     }
   ],
   "categories": {
