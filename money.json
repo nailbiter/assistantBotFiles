@@ -2409,6 +2409,21 @@
       "date": "Tue May 15 20:34:17 CST 2018",
       "amount": 836,
       "category": "food"
+    },
+    {
+      "date": "Wed May 16 08:25:59 CST 2018",
+      "amount": 481,
+      "category": "food"
+    },
+    {
+      "date": "Wed May 16 13:03:52 CST 2018",
+      "amount": 2010,
+      "category": "fun"
+    },
+    {
+      "date": "Wed May 16 14:46:05 CST 2018",
+      "amount": 184,
+      "category": "food"
     }
   ],
   "categories": {
