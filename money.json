@@ -2559,6 +2559,11 @@
       "date": "Wed May 23 09:15:49 CST 2018",
       "amount": 124,
       "category": "food"
+    },
+    {
+      "date": "Wed May 23 19:55:54 CST 2018",
+      "amount": 200,
+      "category": "fun"
     }
   ],
   "categories": {
