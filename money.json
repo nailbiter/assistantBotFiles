@@ -2544,6 +2544,21 @@
       "date": "Tue May 22 17:23:24 CST 2018",
       "amount": 250,
       "category": "food"
+    },
+    {
+      "date": "Tue May 22 21:02:57 CST 2018",
+      "amount": 807,
+      "category": "food"
+    },
+    {
+      "date": "Wed May 23 07:22:37 CST 2018",
+      "amount": 244,
+      "category": "food"
+    },
+    {
+      "date": "Wed May 23 09:15:49 CST 2018",
+      "amount": 124,
+      "category": "food"
     }
   ],
   "categories": {
