@@ -2564,6 +2564,56 @@
       "date": "Wed May 23 19:55:54 CST 2018",
       "amount": 200,
       "category": "fun"
+    },
+    {
+      "date": "Thu May 24 12:11:42 CST 2018",
+      "amount": 200,
+      "category": "food"
+    },
+    {
+      "date": "Thu May 24 21:53:14 CST 2018",
+      "amount": 2640,
+      "category": "food"
+    },
+    {
+      "date": "Thu May 24 21:53:14 CST 2018",
+      "amount": 1864,
+      "category": "fun"
+    },
+    {
+      "date": "Fri May 25 09:52:31 CST 2018",
+      "amount": 550,
+      "category": "food"
+    },
+    {
+      "date": "Fri May 25 13:46:14 CST 2018",
+      "amount": 124,
+      "category": "food"
+    },
+    {
+      "date": "Fri May 25 16:41:09 CST 2018",
+      "amount": 291,
+      "category": "food"
+    },
+    {
+      "date": "Fri May 25 18:32:30 CST 2018",
+      "amount": 1080,
+      "category": "transport"
+    },
+    {
+      "date": "Fri May 25 20:23:13 CST 2018",
+      "amount": 369,
+      "category": "food"
+    },
+    {
+      "date": "Fri May 25 20:23:15 CST 2018",
+      "amount": 200,
+      "category": "fun"
+    },
+    {
+      "date": "Sat May 26 20:45:05 CST 2018",
+      "amount": 13000,
+      "category": "food"
     }
   ],
   "categories": {
