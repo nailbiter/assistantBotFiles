@@ -2704,6 +2704,41 @@
       "date": "Thu May 31 22:05:13 CST 2018",
       "amount": 693,
       "category": "food"
+    },
+    {
+      "date": "Fri Jun 01 08:37:53 CST 2018",
+      "amount": 120,
+      "category": "food"
+    },
+    {
+      "date": "Fri Jun 01 12:03:23 CST 2018",
+      "amount": 120,
+      "category": "food"
+    },
+    {
+      "date": "Fri Jun 01 15:31:38 CST 2018",
+      "amount": 280,
+      "category": "food"
+    },
+    {
+      "date": "Fri Jun 01 16:26:31 CST 2018",
+      "amount": 719,
+      "category": "food"
+    },
+    {
+      "date": "Fri Jun 01 17:36:58 CST 2018",
+      "amount": 242,
+      "category": "food"
+    },
+    {
+      "date": "Fri Jun 01 20:38:53 CST 2018",
+      "amount": 195,
+      "category": "fun"
+    },
+    {
+      "date": "Fri Jun 01 21:28:15 CST 2018",
+      "amount": 1664,
+      "category": "food"
     }
   ],
   "categories": {

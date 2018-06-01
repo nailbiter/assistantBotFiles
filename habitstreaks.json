@@ -112,12 +112,12 @@
     "accum": 9
   },
   "read main 1 1page:2": {
-    "streak": 1,
-    "accum": 17
+    "streak": 2,
+    "accum": 18
   },
   "read main 1 1page:1": {
-    "streak": 1,
-    "accum": 15
+    "streak": 2,
+    "accum": 16
   },
   "5 flashcards make:2": {
     "streak": 12,
@@ -429,32 +429,32 @@
     "accum": 60
   },
   "test paradigm:5": {
-    "streak": 2,
-    "accum": 39
+    "streak": 3,
+    "accum": 40
   },
   "test paradigm:6": {
-    "streak": 2,
-    "accum": 39
+    "streak": 3,
+    "accum": 40
   },
   "test paradigm:7": {
-    "streak": 2,
-    "accum": 10
+    "streak": 3,
+    "accum": 11
   },
   "test paradigm:1": {
-    "streak": 2,
-    "accum": 41
+    "streak": 3,
+    "accum": 42
   },
   "test paradigm:2": {
-    "streak": 2,
-    "accum": 41
+    "streak": 3,
+    "accum": 42
   },
   "test paradigm:3": {
-    "streak": 2,
-    "accum": 39
+    "streak": 3,
+    "accum": 40
   },
   "test paradigm:4": {
-    "streak": 2,
-    "accum": 39
+    "streak": 3,
+    "accum": 40
   },
   "read german grammar book": {
     "streak": 1,
@@ -533,12 +533,12 @@
     "accum": 1
   },
   "einsoch6 makedocs:1": {
-    "streak": 1,
-    "accum": 15
+    "streak": 2,
+    "accum": 16
   },
   "elsa": {
-    "streak": 2,
-    "accum": 42
+    "streak": 3,
+    "accum": 43
   },
   "do 5 flashcards": {
     "streak": 8,
@@ -653,8 +653,8 @@
     "accum": 10
   },
   "read main 2 1page:1": {
-    "streak": 1,
-    "accum": 16
+    "streak": 2,
+    "accum": 17
   },
   "genders flashcards4": {
     "streak": 7,
@@ -777,11 +777,11 @@
     "accum": 21
   },
   "einsoch6 translate:1": {
-    "streak": 1,
-    "accum": 15
+    "streak": 2,
+    "accum": 16
   },
   "einsoch6 translate:2": {
-    "streak": 1,
-    "accum": 15
+    "streak": 2,
+    "accum": 16
   }
 }
