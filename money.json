@@ -2809,6 +2809,11 @@
       "date": "Sun Jun 03 18:34:08 CST 2018",
       "amount": 2000,
       "category": "fun"
+    },
+    {
+      "date": "Mon Jun 04 23:01:06 CST 2018",
+      "amount": 1210,
+      "category": "food"
     }
   ],
   "categories": {
