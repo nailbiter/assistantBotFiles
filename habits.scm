@@ -33,7 +33,7 @@
 (makehabit "0 13 * * *" "elsa" 1380)
 (makehabit "0 7 * * *" "face cream" 300)
 (makehabit "0 7 * * *" "apple" 300)
-(makehabit "0 7 * * *" "do 3*7_LegParBar/45_abs" 120)
+(makehabit "0 7 * * *" "do 3*9_LegParBar/45_abs" 120)
 (makehabit "0 10 * * tue" "water tree" 60)
 ;(makehabit "0 18 * * *" "protein" 1380)
 (makehabit "0 23 * * *" "sleep" 55)
