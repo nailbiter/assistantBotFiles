@@ -8,7 +8,7 @@
 (makehabits "08:00" "10:00" 2 "read main 1 1page" 1080 '(category "reading"))
 (makehabits "08:00" "10:00" 1 "read main 2 1page" 1080 '(category "reading"))
 
-(makehabits "10:00" "13:00" 7 "test paradigm" 1080 '(category "german"))
+(makehabits "10:00" "13:00" 8 "random test" 1080 '(category "german"))
 (makehabits "10:00" "13:00" 1 "einsoch6 makedocs" 1080 '(category "german") '(info "http://www.dw.com/de/deutsch-lernen/das-bandtagebuch-1-lass-uns-reden/s-32658"))
 (makehabits "10:00" "13:00" 2 "einsoch6 translate" 1080 '(category "german") '(info "http://www.dw.com/de/deutsch-lernen/das-bandtagebuch-1-lass-uns-reden/s-32658"))
 (makehabits "10:00" "13:00" 6 "einsoch6 ubung" 1080 '(category "german") '(info "http://www.dw.com/de/deutsch-lernen/das-bandtagebuch-1-lass-uns-reden/s-32658"))
