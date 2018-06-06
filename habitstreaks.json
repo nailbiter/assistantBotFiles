@@ -169,7 +169,7 @@
   },
   "sleep": {
     "streak": 0,
-    "accum": -119
+    "accum": -120
   },
   "practice 5 flashcards2": {
     "streak": 2,
@@ -771,6 +771,38 @@
   "german grammar book 2 pages": {
     "streak": 0,
     "accum": 12
+  },
+  "random test:3": {
+    "streak": 0,
+    "accum": 0
+  },
+  "random test:4": {
+    "streak": 0,
+    "accum": 0
+  },
+  "random test:5": {
+    "streak": 0,
+    "accum": 0
+  },
+  "random test:6": {
+    "streak": 0,
+    "accum": 0
+  },
+  "random test:7": {
+    "streak": 0,
+    "accum": 0
+  },
+  "random test:8": {
+    "streak": 0,
+    "accum": 0
+  },
+  "random test:1": {
+    "streak": 0,
+    "accum": 0
+  },
+  "random test:2": {
+    "streak": 0,
+    "accum": 0
   },
   "5 flashcards prac:1": {
     "streak": 12,
