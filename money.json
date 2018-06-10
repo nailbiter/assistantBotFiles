@@ -2829,6 +2829,31 @@
       "date": "Wed Jun 06 08:03:01 CST 2018",
       "amount": 195,
       "category": "food"
+    },
+    {
+      "date": "Fri Jun 08 07:46:26 CST 2018",
+      "amount": 120,
+      "category": "food"
+    },
+    {
+      "date": "Fri Jun 08 08:34:20 CST 2018",
+      "amount": 120,
+      "category": "food"
+    },
+    {
+      "date": "Fri Jun 08 19:25:33 CST 2018",
+      "amount": 2310,
+      "category": "fun"
+    },
+    {
+      "date": "Fri Jun 08 19:26:22 CST 2018",
+      "amount": 800,
+      "category": "food"
+    },
+    {
+      "date": "Fri Jun 08 21:00:09 CST 2018",
+      "amount": 330,
+      "category": "food"
     }
   ],
   "categories": {
