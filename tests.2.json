@@ -58,3 +58,16 @@
 	["sind"],
 ["--","ich","du","er/sie/es","wir","ihr","sie (Sie)"],
 "sind"]
+,[["habe","hast","hat","haben","habt","haben"],
+	["haben"],
+["--","ich","du","er/sie/es","wir","ihr","sie (Sie)"],
+"haben"]
+,[
+	["mein","dein","sein","ihr","unser","euer","ihr"
+	,"mein","dein","sein","ihr","unser","euer","ihr"
+	,"meine","deine","seine","ihre","unsere","eure","ihre"
+	,"meine","deine","seine","ihre","unsere","eure","ihre"]
+	,["M","F","N","Pl"]
+	,["--","ich","du","er/es","sie","wir","ihr","sie/Sie"]
+	,"pronouns Genitiv"
+]
