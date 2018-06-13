@@ -2934,6 +2934,26 @@
       "date": "Tue Jun 12 11:37:58 CST 2018",
       "amount": 387,
       "category": "food"
+    },
+    {
+      "date": "Tue Jun 12 22:45:18 CST 2018",
+      "amount": 813,
+      "category": "food"
+    },
+    {
+      "date": "Wed Jun 13 09:13:39 CST 2018",
+      "amount": 124,
+      "category": "food"
+    },
+    {
+      "date": "Wed Jun 13 11:39:03 CST 2018",
+      "amount": 100,
+      "category": "food"
+    },
+    {
+      "date": "Wed Jun 13 22:24:53 CST 2018",
+      "amount": 1195,
+      "category": "food"
     }
   ],
   "categories": {
