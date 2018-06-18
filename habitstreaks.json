@@ -169,7 +169,7 @@
   },
   "sleep": {
     "streak": 0,
-    "accum": -129
+    "accum": -130
   },
   "practice 5 flashcards2": {
     "streak": 2,
@@ -360,8 +360,8 @@
     "accum": 13
   },
   "face cream": {
-    "streak": 2,
-    "accum": 71
+    "streak": 0,
+    "accum": 70
   },
   "test": {
     "streak": 2,
@@ -429,8 +429,8 @@
     "accum": 15
   },
   "apple": {
-    "streak": 2,
-    "accum": 63
+    "streak": 3,
+    "accum": 64
   },
   "test paradigm:5": {
     "streak": 5,
@@ -542,11 +542,11 @@
   },
   "do 3*9_LegParBar/45_abs": {
     "streak": 0,
-    "accum": 0
+    "accum": -1
   },
   "elsa": {
-    "streak": 3,
-    "accum": 47
+    "streak": 4,
+    "accum": 48
   },
   "do 5 flashcards": {
     "streak": 8,
