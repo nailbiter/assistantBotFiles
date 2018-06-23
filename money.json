@@ -3439,6 +3439,11 @@
       "date": "Fri Jun 22 22:37:35 JST 2018",
       "amount": 154,
       "category": "food"
+    },
+    {
+      "date": "Sat Jun 23 12:50:53 JST 2018",
+      "amount": 500,
+      "category": "food"
     }
   ],
   "categories": {
