@@ -165,8 +165,10 @@
     "description": "<no descr>",
     "history": [
       1529835955129,
-      180
+      180,
+      1529844332236,
+      "done"
     ],
-    "done": false
+    "done": true
   }
 ]}
