@@ -3509,6 +3509,11 @@
       "date": "Sun Jun 24 20:22:21 JST 2018",
       "amount": 230,
       "category": "food"
+    },
+    {
+      "date": "Sun Jun 24 20:45:01 JST 2018",
+      "amount": 2087,
+      "category": "fun"
     }
   ],
   "categories": {
