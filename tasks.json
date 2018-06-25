@@ -189,7 +189,10 @@
   },
   {
     "description": "fromK; Jun 25, 22:16; プログラミングにおける a priori estimate",
-    "history": [],
-    "done": false
+    "history": [
+      1529942574749,
+      "done"
+    ],
+    "done": true
   }
 ]}
