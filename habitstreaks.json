@@ -773,8 +773,8 @@
     "accum": 12
   },
   "random test:3": {
-    "streak": 4,
-    "accum": 3
+    "streak": 0,
+    "accum": 2
   },
   "random test:4": {
     "streak": 4,
@@ -797,12 +797,12 @@
     "accum": 3
   },
   "random test:1": {
-    "streak": 4,
-    "accum": 3
+    "streak": 0,
+    "accum": 2
   },
   "random test:2": {
-    "streak": 4,
-    "accum": 3
+    "streak": 0,
+    "accum": 2
   },
   "5 flashcards prac:1": {
     "streak": 12,
