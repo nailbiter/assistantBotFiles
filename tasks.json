@@ -197,7 +197,10 @@
   },
   {
     "description": "ktalk; Jun 26, 15:02;",
-    "history": [],
-    "done": false
+    "history": [
+      1529997365157,
+      "done"
+    ],
+    "done": true
   }
 ]}
