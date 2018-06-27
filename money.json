@@ -3574,6 +3574,11 @@
       "date": "Wed Jun 27 23:22:18 JST 2018",
       "amount": 574,
       "category": "food"
+    },
+    {
+      "date": "Thu Jun 28 08:30:53 JST 2018",
+      "amount": 100,
+      "category": "food"
     }
   ],
   "categories": {
