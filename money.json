@@ -3769,6 +3769,16 @@
       "date": "Mon Jul 02 14:25:37 CST 2018",
       "amount": 4492,
       "category": "fun"
+    },
+    {
+      "date": "Mon Jul 02 19:03:09 CST 2018",
+      "amount": 120,
+      "category": "food"
+    },
+    {
+      "date": "Mon Jul 02 20:48:36 CST 2018",
+      "amount": 397,
+      "category": "food"
     }
   ],
   "categories": {
