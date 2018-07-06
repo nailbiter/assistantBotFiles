@@ -213,12 +213,18 @@
   },
   {
     "description": "replace l by ell",
-    "history": [],
-    "done": false
+    "history": [
+      1530865105090,
+      "done"
+    ],
+    "done": true
   },
   {
     "description": "fromK; Jul 4, 05:50; D3のアレックス：対称性破れ作用素の像に関する論文について",
-    "history": [],
-    "done": false
+    "history": [
+      1530864108412,
+      "done"
+    ],
+    "done": true
   }
 ]}
