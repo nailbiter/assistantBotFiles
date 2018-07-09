@@ -229,7 +229,10 @@
   },
   {
     "description": "fromK; Jul 8, 13:58; Image の表示の別のアイディア",
-    "history": [],
-    "done": false
+    "history": [
+      1531124010901,
+      "done"
+    ],
+    "done": true
   }
 ]}
