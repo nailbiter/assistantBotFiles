@@ -2798,7 +2798,8 @@
   "7/14/18 11:30 AM:work",
   "7/14/18 12:00 PM:parttime",
   "7/14/18 12:30 PM:parttime",
-  "7/14/18 1:30 PM:useless",
+  "7/14/18 1:00 PM:parttime",
+  "7/14/18 1:30 PM:parttime",
   "7/14/18 2:00 PM:parttime",
   "7/14/18 2:30 PM:parttime",
   "7/14/18 3:11 PM:parttime",
@@ -2819,5 +2820,7 @@
   "7/14/18 10:56 PM:social",
   "7/14/18 11:06 PM:german",
   "7/14/18 11:30 PM:logistics",
-  "7/15/18 12:30 AM:useless"
+  "7/15/18 12:00 AM:work",
+  "7/15/18 12:30 AM:work",
+  "7/15/18 1:00 AM:work"
 ]}
