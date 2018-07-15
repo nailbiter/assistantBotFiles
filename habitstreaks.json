@@ -136,8 +136,8 @@
     "accum": 22
   },
   "wash head": {
-    "streak": 1,
-    "accum": 42
+    "streak": 2,
+    "accum": 43
   },
   "5 flashcards make:1": {
     "streak": 12,
@@ -360,8 +360,8 @@
     "accum": 13
   },
   "face cream": {
-    "streak": 0,
-    "accum": 61
+    "streak": 1,
+    "accum": 62
   },
   "test": {
     "streak": 2,
