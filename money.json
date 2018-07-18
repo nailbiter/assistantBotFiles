@@ -3924,6 +3924,21 @@
       "date": "Wed Jul 18 17:03:56 JST 2018",
       "amount": 1800,
       "category": "food"
+    },
+    {
+      "date": "Wed Jul 18 21:45:15 JST 2018",
+      "amount": 483,
+      "category": "food"
+    },
+    {
+      "date": "Wed Jul 18 21:56:50 JST 2018",
+      "amount": 400,
+      "category": "food"
+    },
+    {
+      "date": "Wed Jul 18 21:57:02 JST 2018",
+      "amount": 650,
+      "category": "food"
     }
   ],
   "categories": {
