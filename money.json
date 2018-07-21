@@ -4014,6 +4014,26 @@
       "date": "Sat Jul 21 13:34:23 JST 2018",
       "amount": 183,
       "category": "food"
+    },
+    {
+      "date": "Sat Jul 21 20:24:39 JST 2018",
+      "amount": 319,
+      "category": "fun"
+    },
+    {
+      "date": "Sat Jul 21 20:25:00 JST 2018",
+      "amount": 432,
+      "category": "food"
+    },
+    {
+      "date": "Sat Jul 21 20:25:02 JST 2018",
+      "amount": 864,
+      "category": "fun"
+    },
+    {
+      "date": "Sat Jul 21 20:25:20 JST 2018",
+      "amount": 1220,
+      "category": "fun"
     }
   ],
   "categories": {
