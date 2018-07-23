@@ -774,7 +774,7 @@
   },
   "random test:3": {
     "streak": 0,
-    "accum": 1
+    "accum": 0
   },
   "random test:4": {
     "streak": 0,
@@ -798,11 +798,11 @@
   },
   "random test:1": {
     "streak": 0,
-    "accum": 1
+    "accum": 0
   },
   "random test:2": {
     "streak": 0,
-    "accum": 1
+    "accum": 0
   },
   "5 flashcards prac:1": {
     "streak": 12,
