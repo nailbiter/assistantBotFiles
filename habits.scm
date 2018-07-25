@@ -7,6 +7,7 @@
 
 (makehabits "08:00" "10:00" 2 "read main 1 1page" 1080 '(category "reading"))
 (makehabits "08:00" "10:00" 1 "read main 2 1page" 1080 '(category "reading"))
+(makehabits "08:00" "14:00" 3 "do main task" 1080 '(category "tasks"))
 
 (makehabits "10:00" "13:00" 8 "random test" 1080 '(category "german"))
 (makehabits "10:00" "13:00" 1 "einsoch6 makedocs" 1080 '(category "german") '(info "http://www.dw.com/de/deutsch-lernen/das-bandtagebuch-1-lass-uns-reden/s-32658"))
