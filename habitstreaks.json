@@ -116,8 +116,8 @@
     "accum": 9
   },
   "read main 1 1page:2": {
-    "streak": 1,
-    "accum": 15
+    "streak": 0,
+    "accum": 14
   },
   "read main 1 1page:1": {
     "streak": 0,
@@ -184,8 +184,8 @@
     "accum": 13
   },
   "do main task:1": {
-    "streak": 1,
-    "accum": -1
+    "streak": 0,
+    "accum": -2
   },
   "do main task:2": {
     "streak": 1,
