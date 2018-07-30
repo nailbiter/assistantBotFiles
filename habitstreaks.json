@@ -441,8 +441,8 @@
     "accum": 15
   },
   "apple": {
-    "streak": 1,
-    "accum": 55
+    "streak": 0,
+    "accum": 54
   },
   "test paradigm:5": {
     "streak": 5,
