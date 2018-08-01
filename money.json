@@ -4294,6 +4294,11 @@
       "date": "Wed Aug 01 12:04:27 JST 2018",
       "amount": 680,
       "category": "food"
+    },
+    {
+      "date": "Wed Aug 01 13:58:48 JST 2018",
+      "amount": 537,
+      "category": "food"
     }
   ],
   "categories": {
