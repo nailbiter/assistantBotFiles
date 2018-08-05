@@ -136,8 +136,8 @@
     "accum": 22
   },
   "wash head": {
-    "streak": 9,
-    "accum": 50
+    "streak": 10,
+    "accum": 51
   },
   "5 flashcards make:1": {
     "streak": 12,
@@ -372,8 +372,8 @@
     "accum": 13
   },
   "face cream": {
-    "streak": 1,
-    "accum": 62
+    "streak": 2,
+    "accum": 63
   },
   "test": {
     "streak": 2,
@@ -441,8 +441,8 @@
     "accum": 15
   },
   "apple": {
-    "streak": 1,
-    "accum": 56
+    "streak": 2,
+    "accum": 57
   },
   "test paradigm:5": {
     "streak": 5,
