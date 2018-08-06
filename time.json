@@ -3927,11 +3927,11 @@
   "8/6/18 8:00 PM:gym",
   "8/6/18 8:30 PM:gym",
   "8/6/18 9:00 PM:gym",
-  "8/6/18 9:30 PM:useless",
-  "8/6/18 10:00 PM:useless",
-  "8/6/18 10:30 PM:useless",
-  "8/6/18 11:00 PM:useless",
-  "8/6/18 11:30 PM:useless",
-  "8/7/18 12:00 AM:useless",
-  "8/7/18 12:30 AM:useless"
+  "8/6/18 9:30 PM:logistics",
+  "8/6/18 10:00 PM:logistics",
+  "8/6/18 10:30 PM:german",
+  "8/6/18 11:00 PM:coding",
+  "8/6/18 11:30 PM:logistics",
+  "8/7/18 12:00 AM:coding",
+  "8/7/18 12:30 AM:coding"
 ]}
