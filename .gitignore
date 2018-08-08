@@ -4,3 +4,5 @@ merged.scm
 habits.json
 Makefile.local
 tests.json
+*.swp
+*.swo
