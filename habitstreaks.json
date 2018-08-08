@@ -116,8 +116,8 @@
     "accum": 9
   },
   "read main 1 1page:2": {
-    "streak": 2,
-    "accum": 16
+    "streak": 3,
+    "accum": 17
   },
   "read main 1 1page:1": {
     "streak": 3,
@@ -184,8 +184,8 @@
     "accum": 13
   },
   "do main task:1": {
-    "streak": 2,
-    "accum": 0
+    "streak": 3,
+    "accum": 1
   },
   "do main task:2": {
     "streak": 2,
@@ -673,8 +673,8 @@
     "accum": 10
   },
   "read main 2 1page:1": {
-    "streak": 2,
-    "accum": 14
+    "streak": 3,
+    "accum": 15
   },
   "genders flashcards4": {
     "streak": 7,
