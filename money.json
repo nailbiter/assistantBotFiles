@@ -4524,6 +4524,11 @@
       "date": "Sat Aug 11 09:12:56 JST 2018",
       "amount": 195,
       "category": "food"
+    },
+    {
+      "date": "Sat Aug 11 10:22:02 JST 2018",
+      "amount": 150,
+      "category": "food"
     }
   ],
   "categories": {
