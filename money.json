@@ -4584,6 +4584,16 @@
       "date": "Sun Aug 12 17:59:21 JST 2018",
       "amount": 464,
       "category": "fun"
+    },
+    {
+      "date": "Sun Aug 12 19:20:29 JST 2018",
+      "amount": 162,
+      "category": "food"
+    },
+    {
+      "date": "Sun Aug 12 19:29:42 JST 2018",
+      "amount": 637,
+      "category": "fun"
     }
   ],
   "categories": {

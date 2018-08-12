@@ -239,8 +239,10 @@
     "description": "pevzner",
     "history": [
       1534064883347,
-      90
+      90,
+      1534069559906,
+      "done"
     ],
-    "done": false
+    "done": true
   }
 ]}
