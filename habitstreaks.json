@@ -116,12 +116,12 @@
     "accum": 9
   },
   "read main 1 1page:2": {
-    "streak": 6,
-    "accum": 20
+    "streak": 7,
+    "accum": 21
   },
   "read main 1 1page:1": {
-    "streak": 6,
-    "accum": 18
+    "streak": 7,
+    "accum": 19
   },
   "5 flashcards make:2": {
     "streak": 12,
@@ -681,8 +681,8 @@
     "accum": 10
   },
   "read main 2 1page:1": {
-    "streak": 6,
-    "accum": 18
+    "streak": 7,
+    "accum": 19
   },
   "genders flashcards4": {
     "streak": 7,
