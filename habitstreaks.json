@@ -120,8 +120,8 @@
     "accum": 23
   },
   "read main 1 1page:1": {
-    "streak": 1,
-    "accum": 21
+    "streak": 2,
+    "accum": 22
   },
   "5 flashcards make:2": {
     "streak": 12,
@@ -372,8 +372,8 @@
     "accum": 13
   },
   "face cream": {
-    "streak": 0,
-    "accum": 68
+    "streak": 1,
+    "accum": 69
   },
   "test": {
     "streak": 2,
