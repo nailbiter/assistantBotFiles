@@ -116,8 +116,8 @@
     "accum": 9
   },
   "read main 1 1page:2": {
-    "streak": 1,
-    "accum": 23
+    "streak": 2,
+    "accum": 24
   },
   "read main 1 1page:1": {
     "streak": 2,
@@ -442,7 +442,7 @@
   },
   "apple": {
     "streak": 0,
-    "accum": 62
+    "accum": 61
   },
   "test paradigm:5": {
     "streak": 5,
@@ -557,8 +557,8 @@
     "accum": 1
   },
   "einsoch6 makedocs:1": {
-    "streak": 1,
-    "accum": 15
+    "streak": 2,
+    "accum": 16
   },
   "do 3*9_LegParBar/45_abs": {
     "streak": 0,
@@ -681,8 +681,8 @@
     "accum": 10
   },
   "read main 2 1page:1": {
-    "streak": 1,
-    "accum": 21
+    "streak": 2,
+    "accum": 22
   },
   "genders flashcards4": {
     "streak": 7,
