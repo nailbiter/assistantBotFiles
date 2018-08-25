@@ -4774,6 +4774,46 @@
       "date": "Sat Aug 25 19:08:55 JST 2018",
       "amount": 194,
       "category": "food"
+    },
+    {
+      "date": "Sat Aug 25 20:20:37 JST 2018",
+      "amount": 216,
+      "category": "food"
+    },
+    {
+      "date": "Sat Aug 25 20:20:47 JST 2018",
+      "amount": 554,
+      "category": "food"
+    },
+    {
+      "date": "Sat Aug 25 20:20:56 JST 2018",
+      "amount": 742,
+      "category": "food"
+    },
+    {
+      "date": "Sat Aug 25 20:21:06 JST 2018",
+      "amount": 593,
+      "category": "food"
+    },
+    {
+      "date": "Sat Aug 25 20:21:19 JST 2018",
+      "amount": 683,
+      "category": "food"
+    },
+    {
+      "date": "Sat Aug 25 20:21:28 JST 2018",
+      "amount": 910,
+      "category": "food"
+    },
+    {
+      "date": "Sat Aug 25 20:21:37 JST 2018",
+      "amount": 528,
+      "category": "food"
+    },
+    {
+      "date": "Sat Aug 25 20:21:47 JST 2018",
+      "amount": 2526,
+      "category": "food"
     }
   ],
   "categories": {
