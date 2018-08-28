@@ -441,8 +441,8 @@
     "accum": 15
   },
   "apple": {
-    "streak": 2,
-    "accum": 63
+    "streak": 3,
+    "accum": 64
   },
   "test paradigm:5": {
     "streak": 5,
@@ -561,8 +561,8 @@
     "accum": 19
   },
   "do 3*9_LegParBar/45_abs": {
-    "streak": 2,
-    "accum": -16
+    "streak": 3,
+    "accum": -15
   },
   "elsa": {
     "streak": 1,
