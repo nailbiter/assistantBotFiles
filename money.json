@@ -4959,6 +4959,11 @@
       "date": "Thu Aug 30 21:23:38 JST 2018",
       "amount": 1293,
       "category": "food"
+    },
+    {
+      "date": "Sat Sep 01 10:38:39 JST 2018",
+      "amount": 154,
+      "category": "fun"
     }
   ],
   "categories": {
