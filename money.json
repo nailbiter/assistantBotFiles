@@ -4994,6 +4994,11 @@
       "date": "Tue Sep 04 18:52:42 JST 2018",
       "amount": 302,
       "category": "food"
+    },
+    {
+      "date": "Tue Sep 04 22:19:00 JST 2018",
+      "amount": 991,
+      "category": "food"
     }
   ],
   "categories": {
