@@ -4999,6 +4999,21 @@
       "date": "Tue Sep 04 22:19:00 JST 2018",
       "amount": 991,
       "category": "food"
+    },
+    {
+      "date": "Wed Sep 05 11:52:06 JST 2018",
+      "amount": 4000,
+      "category": "fun"
+    },
+    {
+      "date": "Wed Sep 05 11:52:31 JST 2018",
+      "amount": 1600,
+      "category": "food"
+    },
+    {
+      "date": "Wed Sep 05 11:52:44 JST 2018",
+      "amount": 3100,
+      "category": "fun"
     }
   ],
   "categories": {
