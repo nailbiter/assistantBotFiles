@@ -70,4 +70,10 @@
 	,["M","F","N","Pl"]
 	,["--","ich","du","er/es","sie","wir","ihr","sie/Sie"]
 	,"pronouns Genitiv"
+],[
+	["könnte","könntest","könnte","könnten","könntet","könnten",
+	"sollte","solltest","sollte","sollten","solltet","sollten"],
+	["können","sollen"],
+	["--","ich","du","er/sie/es","wir","ihr","sie/Sie"],
+	"KONJUNKTIV II"
 ]
