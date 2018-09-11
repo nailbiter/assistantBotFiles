@@ -39,16 +39,6 @@
     (map (lambda(t)(list(quotient t 60)(remainder t 60))) timelist)
     ))
 
-;;(define(makehabits start end count name len . opt)
-;;  (map
-;;    (lambda(cronline name)
-;;      (makehabit:inner cronline name len opt))
-;;    (map
-;;      (lambda(i)(format #f "~a ~a * * *"(second i)(first i)))
-;;      (randtimes start end count))
-;;    (map
-;;      (lambda(i)(format #f "~a:~a" name (+ i 1)))
-;;      (seq 0 count))))
 (define(makehabits start end count name len . opt)
   (map
     (lambda(n)
@@ -63,10 +53,6 @@
                  (list 'len len)
                  (cons (list 'name n) opt))))))
         (hash-table/put! habitshash key new)))
-;;      (hash-table/put! 
-;;        habitshash 
-;;        (list start end)
-;;        (cons(list 'len len)(cons (list 'name n) opt))))
     (map
       (lambda(i)(format #f "~a:~a" name (+ i 1)))
       (seq 0 count))))
@@ -75,7 +61,7 @@
 (define(makehabit:inner cronline name delaymin opt)
   (format 
     #t 
-    "{\"cronline\":\"~a\",\"name\":\"~a\",\"count\":1,\"delaymin\":~a ~a ~a ~a},~%"
+    "{\"cronline\":\"~a\",\"name\":\"~a\",\"delaymin\":~a ~a ~a ~a},~%"
     cronline
     name
     delaymin
@@ -109,6 +95,5 @@
               (getkey item 'name "")
               (getkey item 'len 0)
               item))))
-;;(define(makehabit:inner cronline name delaymin opt)
         (map proc itemlist timelist)))
     (hash-table/key-list habitshash)))

@@ -45,4 +45,4 @@
 (makehabit "30 22 * * Fri" "confucius 1h: 2" 960)
 
 ;(format #t "{\"cronline\":\"0 7 * * *\",\"name\":\"listen to jojo: to html\",\"count\":2,\"delaymin\":120,\"enabled\":true,\"category\":\"german\"},~%")
-(format #t"{\"cronline\":\"*/2 * * * *\",\"name\":\"test\",\"count\":1,\"delaymin\":1,\"enabled\":false}]}")
+(format #t"{\"cronline\":\"*/2 * * * *\",\"name\":\"test\",\"delaymin\":1,\"enabled\":false}]}")
