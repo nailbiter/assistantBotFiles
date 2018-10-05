@@ -6,3 +6,4 @@ Makefile.local
 tests.json
 *.swp
 *.swo
+merged.pl
