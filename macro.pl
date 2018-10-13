@@ -20,7 +20,7 @@ use warnings;
 #global const's
 my %FIELDTYPES = (
     STRING => [qw(cronline name info onFailed category)],
-    NUMBER => [qw(delayMin)],
+    NUMBER => [qw(delaymin)],
     BOOLEAN => [qw(enabled)],
 );
  
@@ -62,11 +62,11 @@ sub habitToString{
     return "\t{".join(", ",@values)."}";
 }
 sub makeHabit{
-    (my $cronline,my $habitName,my $delayMin,my %rest) = @_;
+    (my $cronline,my $habitName,my $delaymin,my %rest) = @_;
     my %habit = %rest;
     $habit{cronline} = $cronline;
     $habit{name} = $habitName;
-    $habit{delayMin} = $delayMin;
+    $habit{delaymin} = $delaymin;
     $habit{info} //= "";
     $habit{onFailed} //= "putlabel";
     $habit{enabled} //= 1;
