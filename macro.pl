@@ -59,17 +59,26 @@ sub habitToString{
     for(@{$FIELDTYPES{BOOLEAN}}){
         push(@values,sprintf("\"%s\":%s",$_,$habitRef->{$_}?"true":"false"));
     }
+
+	#FIXME: this is bad, cause it's irregular
+	if(exists $habitRef->{items}){
+		my @items = map {sprintf("\"%s\"",$_)} @{$habitRef->{items}};
+		push(@values,sprintf("\"%s\":[%s]","checklist",join(",",@items)));
+	}
     return "\t{".join(", ",@values)."}";
 }
 sub makeHabit{
     (my $cronline,my $habitName,my $delaymin,my %rest) = @_;
     my %habit = %rest;
+
     $habit{cronline} = $cronline;
     $habit{name} = $habitName;
     $habit{delaymin} = $delaymin;
+
     $habit{info} //= "";
     $habit{onFailed} //= "putlabel";
     $habit{enabled} //= 1;
+
     push(@habits,\%habit);
 }
 
